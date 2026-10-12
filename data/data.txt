@@ -1,0 +1,4 @@
+The used datasets are available in the ImageMG  and Architectural Heritage Elements (AHE). 
+
+Carvalho Ottoni, A. L. & Cordeiro Ottoni, L. T. A deep learning approach for cultural heritage building classification using transfer learning and data augmentation. J. Cult. Herit. 74, 214–224 (2025).
+Llamas, J., M. Lerones, P., Medina, R., Zalama, E. & Gómez-García-Bermejo, J. Classification of Architectural Heritage Images Using Deep Learning Techniques. Appl. Sci. 7, 992 (2017).
